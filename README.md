@@ -1,16 +1,71 @@
-# React + Vite
+Projeto React - useState 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi desenvolvido para praticar o uso do **Hook `useState`** no React.  
+Ele foi criado a partir do template **React + Vite**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Objetivo
 
-## React Compiler
+Demonstrar como o **useState** permite que um componente do React **lembre e atualize valores ao longo do tempo**.  
+No exemplo, cada vez que o usuário clica em um botão, o valor exibido na tela é atualizado automaticamente.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+Tecnologias utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- JavaScript (ES6+)
+- HTML e CSS
+
+---
+
+Como executar o projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Jakelinegomes32/useState-react.git
+---
+
+2. Acesse a pasta do projeto:
+
+cd useState-react
+
+---
+
+3. Instale as dependências:
+
+npm install
+
+---
+
+4. Execute o projeto:
+
+npm run dev
+
+---
+
+5. Abra o navegador e acesse:
+
+http://localhost:5173
+
+---
+
+O que foi aprendido
+
+Como importar e usar o hook useState
+Como atualizar o estado de um componente ao clicar em botões
+Como renderizar valores atualizados automaticamente na interface
+
+---
+
+Créditos
+
+Atividade proposta com base no vídeo:
+🔗 https://www.youtube.com/watch?v=ZWwE0GWEXDc
+
+
+by Jakeline Gomes
+
+   
