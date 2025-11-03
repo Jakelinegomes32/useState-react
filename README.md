@@ -1,10 +1,5 @@
 Projeto React - useState 
 
-Este projeto foi desenvolvido para praticar o uso do **Hook `useState`** no React.  
-Ele foi criado a partir do template **React + Vite**.
-
----
-
 Objetivo
 
 Demonstrar como o **useState** permite que um componente do React **lembre e atualize valores ao longo do tempo**.  
